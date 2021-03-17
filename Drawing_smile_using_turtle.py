@@ -53,10 +53,3 @@ t.write("KEEP_SMILING", align="CENTER", font=("Verdana", 12, "bold"))
 t.penup()
 t.hideturtle()
 wn.exitonclick()
-
-
-# In[ ]:
-
-
-
-
